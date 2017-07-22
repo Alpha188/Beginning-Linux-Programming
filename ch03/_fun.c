@@ -1,4 +1,4 @@
-```c
+
 write
     #include <unistd.h>
     size_t write(int fildes, const void *buf, size_t nbytes);
